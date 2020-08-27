@@ -13,7 +13,7 @@ Current version: v1.0 Image previews here: https://imgur.com/a/FGTIJZc
 
 INSTALLATION INSTRUCTIONS
 
-While on the "Code" tab above, click the green "Code" button, then select Download Zip.
-When the .zip file is downloaded, extract it somewhere on your computer. You should end up with a folder titled "captainvtol_mko-master".
-Inside the master folder is another folder titled "captainvtol-mko". Drag this folder into your MSFS\Community directory.
-That's it! Fire up MSFS, then go to World Map and search for MKO.
+1. While on the "Code" tab above, click the green "Code" button, then select Download Zip.
+2. When the .zip file is downloaded, extract it somewhere on your computer. You should end up with a folder titled "captainvtol_mko-master".
+3. Inside the master folder is another folder titled "captainvtol-mko". Drag this folder into your MSFS\Community directory.
+4. That's it! Fire up MSFS, then go to World Map and search for MKO.
